@@ -2,8 +2,7 @@
 | Tema  | Introducción  |
 |---|---|
 | [1. Servidor Python](README.md#1-servidor-python)  | Hemos creado un servidor web con Python |
-|   |   |
-|   |   |
+
 
 # 1. Servidor Python
 He creado un servidor web con Python, usando una de sus librerías internas.
