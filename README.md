@@ -1,5 +1,5 @@
 # SRI
-| Tema  | Introducción  |
+| **Tema**  | **Introducción**  |
 |---|---|
 | [1. Servidor Python](README.md#1-servidor-python)  | Hemos creado un servidor web con Python |
 
