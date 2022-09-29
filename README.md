@@ -19,6 +19,6 @@ También he creado otro servidor con Python usando otro código, de un usuario d
 También he creado un archivo index.html, para que se cargue cuando cargue la página.
 
 ![Archivos](/Imágenes/ej1.1.png)
-![Cuando entramos a nuestro server desde el navegador](/Imágenes/ej1.1.png)
+![Cuando entramos a nuestro server desde el navegador](/Imágenes/ej1.2.png)
 
 ___
