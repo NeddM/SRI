@@ -1,7 +1,7 @@
 # SRI
 | **Tema**  | **Introducción**  |
 |---|---|
-| [1. Servidor Python](README.md#1-servidor-python)  | Hemos creado un servidor web con Python |
+| [1. Servidor Python](/ejercicios/1.-Servidor-web-Python)  | Hemos creado un servidor web con Python |
 
 ___
 
